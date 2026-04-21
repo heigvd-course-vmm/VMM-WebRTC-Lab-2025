@@ -1,5 +1,5 @@
-VMM-WebRTC-lab
-==============
+VMM-WebRTC-videocall-lab
+========================
 
 Student lab to develop a simple but complete video calling application with WebRTC. The frontend is implemented in Javascript with a simple HTML page. The signaling server is implemented in Python with Flask and Flask-SocketIO.
 
