@@ -39,7 +39,7 @@ This section guides the student through the development of the complete solution
 Installation
 ------------
 
-* Fork this repository on GitHub and clone your fork to a Linux server. We will use Ubuntu 20.04 in the following.
+* Use GitHub classroom or fork this repository on GitHub. Then clone your fork to a Linux server. We will use Ubuntu 20.04 in the following.
 * The server has to have port 443/tcp open.
 * Install Flask and Flask-Socketio on the server:
   ```bash
@@ -390,7 +390,7 @@ Now the implementation should be finished and you have a complete, working peer-
 Submit your solution
 --------------------
 
-After implementing and testing all parts, send a Pull Request for the main respository to submit your final result.
+After implementing and testing all parts, submit your implementation throught GitHub classroom or a pull request.
 
 Troubleshooting
 ---------------
